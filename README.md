@@ -1,5 +1,5 @@
 # CODXO
- Python Intership task submission
+ Python Internship task submission
 
 Screenshot of output
 ![Screenshot (2)](https://github.com/akshaygade0609/CODXO/assets/169359908/ff2a49be-8d24-4600-8061-5b25c77cd175)
